@@ -4,7 +4,7 @@ Mock Cross Border Data Transfer Compliance Documentation with SCCs, TIAs, BCRs, 
 **Cross-Border Data Transfer Compliance Documentation**
 
 **Prepared by:** Ramyar Daneshgar  
-**Title:** Compliance Analyst, SecurityEngineer.com 
+**Title:** Compliance Analyst, SecurityEngineer.com
 **Date:** April 9, 2025  
 
 ---
