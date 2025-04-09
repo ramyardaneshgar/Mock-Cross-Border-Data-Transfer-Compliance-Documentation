@@ -5,6 +5,7 @@ Mock Cross Border Data Transfer Compliance Documentation with SCCs, TIAs, BCRs, 
 
 **Prepared by:** Ramyar Daneshgar  
 **Title:** Compliance Analyst, SecurityEngineer.com
+
 ---
 
 ### 1. Standard Contractual Clauses (SCCs)
